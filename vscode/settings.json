@@ -1,0 +1,81 @@
+{
+    "workbench.colorTheme": "Tokyo City",
+    "workbench.iconTheme": "moxer-icons",
+    "editor.fontFamily": "Comic Code, monospace",
+    "editor.letterSpacing": 0.02,
+    "workbench.sideBar.location": "right",
+    "workbench.settings.applyToAllProfiles": [],
+    "editor.fontSize": 15,
+    "terminal.integrated.fontSize": 13,
+    "terminal.integrated.fontFamily": "JetBrains Mono, monospace",
+    "explorer.compactFolders": false,
+    "workbench.startupEditor": "none",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "css.lint.vendorPrefix": "ignore",
+    "css.lint.unknownProperties": "ignore",
+    "workbench.editor.customLabels.patterns": {
+        "**/index.*": "${dirname}/${filename}.${extname}",
+        "**/page.tsx": "${dirname}/${filename}.${extname}",
+        "**/route.ts": "${dirname}/${filename}.${extname}"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.openRepositoryInParentFolders": "never",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "svelte.enable-ts-plugin": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "update.showReleaseNotes": false,
+    "editor.minimap.enabled": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/.env.example": true,
+        "**/.next": true,
+        "**/dist": true,
+        "**/.vscode": true,
+        "**/.gitignore": true,
+        "**/next.config.mjs": true,
+        "**/next-env.d.ts": true,
+        "**/postcss.config.mjs": true,
+        "**/node_modules": true,
+        "**/package-lock.json": true
+    },
+    "workbench.preferredDarkColorTheme": "Tokyo Night",
+    "window.autoDetectColorScheme": true,
+    "workbench.preferredLightColorTheme": "Tokyo (Light)",
+    "workbench.preferredHighContrastColorTheme": "Tokyo Night",
+    "workbench.preferredHighContrastLightColorTheme": "Tokyo (Light)",
+    "material-icon-theme.activeIconPack": "react",
+    "editor.lineHeight": 1.85,
+    "workbench.activityBar.location": "top",
+    "workbench.layoutControl.enabled": false,
+    "liveServer.settings.donotVerifyTags": true,
+    "vscode_custom_css.imports": [
+        "file:///styles/vscode/code-styles.min.css"
+    ],
+    "editor.accessibilitySupport": "off",
+    "go.toolsManagement.autoUpdate": true
+}
