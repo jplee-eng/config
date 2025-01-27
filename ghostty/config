@@ -1,0 +1,16 @@
+adjust-cell-height = 10
+adjust-cursor-thickness = 3
+cursor-style = bar
+confirm-close-surface = false
+font-size = 15
+font-family = "Comic Code"
+macos-titlebar-style = tabs
+shell-integration-features = no-cursor
+shell-integration-features = sudo
+theme = light:flexoki-light,dark:flexoki-dark
+window-colorspace = "display-p3"
+window-padding-balance = true
+window-padding-x = 4
+window-padding-y = 2
+window-save-state = always
+window-title-font-family = "JetBrains Mono"
