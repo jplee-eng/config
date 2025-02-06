@@ -1,3 +1,3 @@
-# Custom styles
+# config
 
-My custom stylesheets for apps that support them
+custom configs or styles for apps that support them

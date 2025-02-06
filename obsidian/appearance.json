@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "baseFontSizeAction": false,
+  "theme": "system",
+  "showViewHeader": true,
+  "baseFontSize": 17,
+  "monospaceFontFamily": "Comic Code,JetBrains Mono",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono,SF Pro",
+  "showRibbon": false
+}

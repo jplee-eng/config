@@ -1,0 +1,14 @@
+{
+  "livePreview": false,
+  "showInlineTitle": false,
+  "showIndentGuide": true,
+  "foldIndent": true,
+  "foldHeading": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true
+}
