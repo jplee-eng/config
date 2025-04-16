@@ -1,12 +1,12 @@
 {
     "workbench.colorTheme": "Tokyo City",
-    "workbench.iconTheme": "moxer-icons",
     "editor.fontFamily": "Comic Code, monospace",
     "editor.letterSpacing": 0.02,
     "workbench.sideBar.location": "right",
+    "workbench.activityBar.location": "top",
+    "workbench.activityBar.orientation": "vertical",
     "workbench.settings.applyToAllProfiles": [],
     "editor.fontSize": 15,
-    "window.zoomLevel": 1,
     "terminal.integrated.fontSize": 13,
     "terminal.integrated.fontFamily": "JetBrains Mono, monospace",
     "explorer.compactFolders": false,
@@ -69,16 +69,14 @@
         ".husky": true,
         ".github": true,
         ".dockerignore": true,
+        ".prettierignore": true,
         ".prettierrc": true
     },
     "workbench.preferredDarkColorTheme": "Tokyo Night",
     "window.autoDetectColorScheme": true,
     "workbench.preferredLightColorTheme": "Tokyo (Light)",
-    "workbench.preferredHighContrastColorTheme": "Tokyo Night",
-    "workbench.preferredHighContrastLightColorTheme": "Tokyo (Light)",
-    "material-icon-theme.activeIconPack": "react",
     "editor.lineHeight": 1.85,
-    "workbench.activityBar.location": "top",
+    "workbench.tree.indent": 14,
     "workbench.layoutControl.enabled": false,
     "liveServer.settings.donotVerifyTags": true,
     "vscode_custom_css.imports": [
@@ -108,5 +106,11 @@
         }
     ],
     "chat.commandCenter.enabled": false,
+    "continue.enableTabAutocomplete": false,
+    "makefile.configureOnOpen": false,
+    "continue.telemetryEnabled": false,
+    "typescript.inlayHints.variableTypes.suppressWhenTypeMatchesName": false,
+    "typescript.tsserver.maxTsServerMemory": 4096,
+    "typescript.tsdk": "6000",
     "diffEditor.ignoreTrimWhitespace": false
 }
